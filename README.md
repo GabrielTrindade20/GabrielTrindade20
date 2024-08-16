@@ -21,7 +21,8 @@ Olá, meu nome é Gabriel Trindade Rocha e sou um profissional da área de anál
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTrindade20)](https://github.com/GabrielTrindade20?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTrindade20)](https://github.com/GabrielTrindade20?tab=repositories) 
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTrindade20&show_icons=true&theme=highcontrast)
 
 ## 🛠 Habilidades
 - **Linguagens de Programação:** Java, JavaScript
@@ -32,15 +33,6 @@ Olá, meu nome é Gabriel Trindade Rocha e sou um profissional da área de anál
 
 #
 </br>
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTrindade20&show_icons=true&theme=highcontrast)
-
-## Objetivos Profissionais
-
-- Desenvolvedor Back-End Júnior
-- Desenvolvedor Java Júnior
-- Desenvolvedor Java
-
 
 #### Você pode conferir mais detalhes sobre meus projetos e experiências em meu:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-trindade/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielTrindade20)
