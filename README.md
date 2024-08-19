@@ -40,4 +40,4 @@ Minhas linguagens mais usadas
 
 ## Feedback
 
-Se você tiver algum feedback, por favor nos deixe saber por meio de gabriel.oficio@gmail.com
+Se você tiver algum feedback, por favor nos deixe saber por meio de gabriel.oficioti@gmail.com
