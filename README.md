@@ -18,11 +18,10 @@ Olá, meu nome é Gabriel Trindade Rocha e sou um profissional da área de anál
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-
-
-
+<!-- 
+Minhas linguagens mais usadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTrindade20)](https://github.com/GabrielTrindade20?tab=repositories) 
-
+-->
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielTrindade20&show_icons=true&theme=highcontrast)
 
 ## 🛠 Habilidades
