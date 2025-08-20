@@ -1,5 +1,5 @@
 ## 🚀 Sobre mim
-Developer Full-Stack | Java | PHP | React | Spring Boot | APIs REST | MySQL  TypeScript
+Developer Full-Stack | Java | PHP | React | Spring Boot | APIs REST | MySQL | TypeScript
 
 Olá! Me chamo Gabriel Rocha, sou formado em Análise e Desenvolvimento de Sistemas pelo SENAC DF e atualmente atuo na área de Tecnologia da Informação.
 Tenho experiência com desenvolvimento back-end, principalmente com Java e Spring Boot, mas também já trabalhei com front-end (React, React Native) e bancos de dados relacionais.
