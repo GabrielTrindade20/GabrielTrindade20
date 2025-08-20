@@ -43,7 +43,7 @@ Minha meta é crescer como Desenvolvedor Back-End, contribuindo para o desenvolv
 
 📧 E-mail: gabriel.oficioti@gmail.com
 
-💼 LinkedIn: Gabriel Trindade Rocha
+💼 LinkedIn: Gabriel Landin Rocha
 
 💻 GitHub: GabrielTrindade20
 
