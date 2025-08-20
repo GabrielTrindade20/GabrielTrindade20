@@ -1,5 +1,52 @@
 ## 🚀 Sobre mim
-Olá, meu nome é Gabriel Trindade Rocha e sou um profissional da área de análise e desenvolvimento de sistemas com 3 anos de experiência no mercado e no seguimento da tecnologia da informação, atuando como programador.
+Developer Full-Stack | Java | PHP | React | Spring Boot | APIs REST | MySQL  TypeScript
+
+Olá! Me chamo Gabriel Rocha, sou formado em Análise e Desenvolvimento de Sistemas pelo SENAC DF e atualmente atuo na área de Tecnologia da Informação.
+Tenho experiência com desenvolvimento back-end, principalmente com Java e Spring Boot, mas também já trabalhei com front-end (React, React Native) e bancos de dados relacionais.
+
+🚀 Minhas principais habilidades técnicas:
+
+Back-End: Java, Spring Boot, Hibernate, APIs REST
+
+Front-End: React, React Native, HTML5, CSS3, JavaScript, TypeScript
+
+Banco de Dados: MySQL, PostgreSQL, SQL Server
+
+Ferramentas & DevOps: Git, Docker, Postman
+
+Metodologias: Scrum, Kanban
+
+📌 Experiência Profissional:
+
+FIESC – Técnico de Suporte de TI (atual): suporte a sistemas, infraestrutura e usuários.
+
+CAESB – Estagiário Full Stack: desenvolvimento de APIs REST com Java + Spring Boot, banco SQL Server e app mobile em React Native.
+
+Freelancer – Desenvolvimento de aplicativos e sistemas web sob demanda, incluindo automação de orçamentos e gestão de negócios.
+
+📂 Projetos Relevantes:
+
+Sistema de Gestão para Doceria – Java, Spring Boot, React, React Native, SQL Server
+
+Instituição Financeira – Java, Spring Boot, SQL Server
+
+Campo Minado Mobile – React Native
+
+Cadastro Escolar – Java, Spring Boot, Thymeleaf
+
+Acervo de Receitas – PHP, MySQL
+
+🎯 Objetivo:
+Minha meta é crescer como Desenvolvedor Back-End, contribuindo para o desenvolvimento de soluções escaláveis, seguras e de alto impacto. Estou sempre em busca de novos desafios, aprendizado contínuo e oportunidades de aplicar minhas habilidades para gerar valor real para as empresas.
+
+📫 Contato:
+
+📧 E-mail: gabriel.oficioti@gmail.com
+
+💼 LinkedIn: Gabriel Trindade Rocha
+
+💻 GitHub: GabrielTrindade20
+
 
 
 ## Principais Tecnologias e Habilidades
